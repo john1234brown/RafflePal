@@ -28,6 +28,3 @@ Did you think thats all i had to say nooo you thought wrong! Well anyways enough
 # Decentralized Raffle Blockchains, Payment and payout supported by Crypto
 # Have public app that is released that will allow any user to create there own chain securely using our future website or through our Fully Functional Discord Bot which you can direct message or message it on our discord server, and eventually from within a video game! and then you run our public release of the nodes to run alot like running a crypto node but instead you will communicate with our public api with your token generated and messaged to you either by the Discord Bot, or 
 # We plan on having this fully released by the new year of January 1 2023! atleast just the Entering on our Raffle chain system to test and debug things with the NFT's then we will work on the Private Chains but still can publicly enter Through our Discord bot or using or Public Release Discord Bot which you will be able to host within your server and it will communicate with ours and vice versa!
-# 
-
-# Public Release
