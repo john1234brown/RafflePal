@@ -14,7 +14,7 @@ Also we include a few free raffals you can enter to win daily NFT's we are mostl
 Did you think thats all i had to say nooo you thought wrong! Well anyways enough with the hype seriously though you will be able to enter the raffle via Minecraft using ForgeMod or via a Minecraft Server through a custom Inventory you access with a command. A few other video games we are going to support are Garry's Mod lame i know, Skyrim through Workshop Mod, Unturned either through a Rocket Plugin or Workshop Mod, Rust either through Server Plugin or Workshop Mod, etc.. And any other video games we might see compatability with our network in the future even include some public docs on how the minecraft server plugin works in Java and some Unturned in C#.
 
 # Update Log 11/15/2022 MM/DD/YYYY Format
-# All Development has been done by @John1234brown and @JayDigsby
+# All Development has been done by @John1234brown and https://vampeyer.github.io/
 # A special thanks to Proxy Providers, VPN Providers. Such as ngrok, smee.io, ProtonVPN, Windscribe. Big shout out to ngrok, and smee.io, and ProtonVPN for the amazing services.
 # We have a backend functional for porting to from any video game or phone app game being developed with a simple form fill out and send form fill out to api and then display the url responded from the api in said video game how ever or whatever way you please along with phone apps and such!
 # Along with a payment verification system and a simple disable allowing entrys at a certain time frame function to ensure enough time to verify crypto payements before the raffle draw times or lotter number draw times.
