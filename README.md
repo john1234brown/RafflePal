@@ -22,7 +22,7 @@ Did you think thats all i had to say nooo you thought wrong! Well anyways enough
 
 
 
-# Goals
+#                                                    Goals
 # All though all this is working it still needs a few security functions put in place before public release of entries is allowed!
 # For now everything is being tested and tried over and over again to ensure every user is fully Secure and to allow a Public Decentralized Blockchain of Winners Wallet Address, Payout Type, Payout Chain, Jackpot Amount, Raffle Type, Raffle Amount, and eventually a Raffle Chain
 # Decentralized Raffle Blockchains, Payment and payout supported by Crypto
