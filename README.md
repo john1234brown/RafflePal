@@ -1,5 +1,5 @@
 # Crypto-Raffle
-We would like to redesign the wheel as you would say everyone loves raffles but nowadays you have to physically be there and dont let get me started on how you cant buy raffle ticket with crypto so we introduce to you the very first WorldWide International CryptoCurrencyRaffle which is as easy as joining the discord server and saying hey to enter the raffle via our Discord Bot which he will ask you few questions each time you want to enter or purchase a raffle ticket.
+We would like to redesign the wheel as you would say everyone loves raffles but nowadays you have to physically be there and dont let get me started on how you cant buy raffle ticket with crypto so we introduce to you the very first WorldWide International CryptoCurrency Raffle which is as easy as joining the discord server and saying hey to enter the raffle via our Discord Bot which he will ask you few questions each time you want to enter or purchase a raffle ticket.
 
 Or with our phone app we mostly expect the most entries will be through website and discord bot.
 So phone app and our software is not really in to fast of development!
@@ -18,7 +18,7 @@ Did you think thats all i had to say nooo you thought wrong! Well anyways enough
 # A special thanks to Proxy Providers, VPN Providers. Such as ngrok, smee.io, ProtonVPN, Windscribe. Big shout out to ngrok, and smee.io, and ProtonVPN for the amazing services.
 # We have a backend functional for porting to from any video game or phone app game being developed with a simple form fill out and send form fill out to api and then display the url responded from the api in said video game how ever or whatever way you please along with phone apps and such!
 # Along with a payment verification system and a simple disable allowing entrys at a certain time frame function to ensure enough time to verify crypto payements before the raffle draw times or lotter number draw times.
-# Additionally we have a working Lottery Ticket System the LTS will allow users to enter a lottery system which is global across either websites etc.. basically a decentralized Raffle Lottery System can be used in Video Games and Discord, anything that you can create a form input or even a command input you can have access to entering this Lottery System or the Hat Draw Raffle or the Hat Draw Raffle Multi Winners will explain further below about these
+# Additionally we have a working Raffle Ticket System the LTS will allow users to enter a Raffle system which is global across either websites etc.. basically a decentralized Raffle System can be used in Video Games and Discord, anything that you can create a form input or even a command input you can have access to entering this Raffle System or the Hat Draw Raffle or the Hat Draw Raffle Multi Winners will explain further below about these
 
 
 
