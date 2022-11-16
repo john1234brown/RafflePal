@@ -1,5 +1,5 @@
 # Crypto-Raffle
-We would like to redesign the wheel as you would say everyone loves raffles but nowadays you have to physically be there and dont let get me started on how you cant buy raffle ticket with crypto so we introduce to you the very first WorldWide International CryptoCurrency Raffle which is as easy as joining the discord server and saying hey to enter the raffle via our Discord Bot which he will ask you few questions each time you want to enter or purchase a raffle ticket.
+We would like to redesign the wheel as you would say everyone loves raffles but nowadays you have to physically be there and dont let get me started on how you cant buy raffle ticket with crypto so we introduce to you the very first WorldWide International Crypto Raffle which is as easy as joining the discord server and saying hey to enter the raffle via our Discord Bot which he will ask you few questions each time you want to enter or purchase a raffle ticket.
 
 Or with our phone app we mostly expect the most entries will be through website and discord bot.
 So phone app and our software is not really in to fast of development!
