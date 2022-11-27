@@ -17,7 +17,7 @@ Did you think thats all i had to say nooo you thought wrong! Well anyways enough
 # All Development has been done by @John1234brown and https://vampeyer.github.io/
 # A special thanks to Proxy Providers, VPN Providers. Such as ngrok, smee.io, ProtonVPN, Windscribe. Big shout out to ngrok, and smee.io, and ProtonVPN for the amazing services.
 # We have a backend functional for porting to from any video game or phone app game being developed with a simple form fill out and send form fill out to api and then display the url responded from the api in said video game how ever or whatever way you please along with phone apps and such!
-# Along with a payment verification system and a simple disable allowing entrys at a certain time frame function to ensure enough time to verify crypto payements before the raffle draw times or lotter number draw times.
+# Along with a payment verification system and a simple disable allowing entrys at a certain time frame function to ensure enough time to verify crypto payements before the raffle draw time.
 # Additionally we have a working Raffle Ticket System the LTS will allow users to enter a Raffle system which is global across either websites etc.. basically a decentralized Raffle System can be used in Video Games and Discord, anything that you can create a form input or even a command input you can have access to entering this Raffle System or the Hat Draw Raffle or the Hat Draw Raffle Multi Winners will explain further below about these
 
 
