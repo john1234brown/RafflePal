@@ -1,5 +1,11 @@
-# Acceptable Cryptocurrency Payouts Are!
+# Acceptable Cryptocurrency Payout Types Are!
 # APE, BTC, BCH, DAI, DOGE, ETH, LTC, MATIC, SHIB, USDT, USDC
 
-# Acceptable Payout Cryptocurrency Chains Are!
+# Acceptable Cryptocurrency Payout Chains Are!
 # Arbitrum, Avalanche, Binance, Ethereum, Fantom, Optimism, Polygon, xDai
+
+# Proper Format Examples on the coinbase Checkouts
+Name: WalletAddress-PublicUsername
+Address: PayoutType-PayoutChain
+
+![image](https://user-images.githubusercontent.com/8825800/205461338-cc430200-8a52-42be-b61a-cc6f9e4074af.png)
