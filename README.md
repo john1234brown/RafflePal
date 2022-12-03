@@ -24,7 +24,8 @@ Did you think thats all i had to say nooo you thought wrong! Well anyways enough
 # Public Database file access will be releasing snippet codes how to get Database of all the checkout urls to be able to respond in your app or videogame to the user the url for them to visit to purchase the ticket!
 # Administrator Raffle Chain Delete Function mainly for if there is any reports on a rafflechain even though we process payements if found to be connected to any illegal illicit terrorist organizations by law we have to block and deny access and delete those raffle chains so if your not doing anything with a terrorist organization then you have nothing to worry about! We will keep ALL chains alive as long as we can until we have been forced to take legal action or if proof of terrorist organization affilations have emerged!
 # Website access point is almost done thanks to the one and only @Vampeyer he is also busy designing his Lottery Ticket Website!
-
+# Payement Verification system has been completed!
+# Converted to using BetterSqlite3 from using Sqlite3
 
 
 # =============== Goals ===============
