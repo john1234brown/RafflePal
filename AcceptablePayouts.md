@@ -4,7 +4,7 @@
 # Acceptable Cryptocurrency Payout Chains Are!
 # Arbitrum, Avalanche, Binance, Ethereum, Fantom, Optimism, Polygon, xDai
 
-# Proper Format Examples on the coinbase Checkouts
+# Proper Format Examples on the Coinbase Checkouts
 Name: WalletAddress-PublicUsername
 Address: PayoutType-PayoutChain
 ![image](https://user-images.githubusercontent.com/8825800/205461359-df6b33ab-9302-4ab2-aab2-7d009e553594.png)
