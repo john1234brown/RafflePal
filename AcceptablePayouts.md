@@ -7,5 +7,4 @@
 # Proper Format Examples on the coinbase Checkouts
 Name: WalletAddress-PublicUsername
 Address: PayoutType-PayoutChain
-
-![image](https://user-images.githubusercontent.com/8825800/205461338-cc430200-8a52-42be-b61a-cc6f9e4074af.png)
+![image](https://user-images.githubusercontent.com/8825800/205461359-df6b33ab-9302-4ab2-aab2-7d009e553594.png)
