@@ -5,7 +5,7 @@ APE, BTC, BCH, DAI, DOGE, ETH, LTC, MATIC, SHIB, USDT, USDC
 Arbitrum, Avalanche, Binance, Ethereum, Fantom, Optimism, Polygon, xDai
 
 # Proper Format Examples on the Coinbase Checkouts
-# Name: WalletAddress-PublicUsername
+# Customer Name: WalletAddress-PublicUsername
 # Address: PayoutType-PayoutChain
 # Image Example Below 
 ![image](https://user-images.githubusercontent.com/8825800/205461359-df6b33ab-9302-4ab2-aab2-7d009e553594.png)
