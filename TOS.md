@@ -1,4 +1,4 @@
-# PLEASE BE AWARE ALL ENTRIES BETWEEN 3:00-6:00 UTC ARE PUT INTO THE NEXT DRAW!
+# PLEASE BE AWARE ALL ENTRIES AFTER 3:00 UTC ARE PUT INTO THE NEXT DRAW!
 # NO REFUNDS ALLOWED ALL SALES ARE FINAL UNLESS A RAFFLECHAIN HAS ONLY 1 ENTRY THEN WE REFUND!
 # All Raffle ticket sales and purchases are final and may not be subject to refunds unless the entries is less then 2!
 # Please check https://time.is/UTC if your unsure of what the time is in UTC!
