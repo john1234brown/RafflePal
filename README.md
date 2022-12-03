@@ -15,7 +15,7 @@ Also we include a few free raffals you can enter to win daily NFT's we are mostl
 - Did you think thats all i had to say nooo you thought wrong! Well anyways enough with the hype seriously though you will be able to enter the raffle via Minecraft using ForgeMod or via a Minecraft Server through a custom Inventory you access with a command. A few other video games we are going to support are Garry's Mod lame i know, Skyrim through Workshop Mod, World of Warcraft through the Addons, Unturned either through a Rocket Plugin or Workshop Mod, Rust either through Server Plugin or Workshop Mod, etc.. And any other video games we might see compatability with our network in the future even include some public docs on how the minecraft server plugin works in Java and some Unturned in C#.
 
 
-# =============== Goals ===============
+# End Project Goals
 - All though all this is working it still needs a few security functions put in place before public release of entries is allowed!
 - For now everything is being tested and tried over and over again to ensure every user is fully Secure and to allow a Public Decentralized Blockchain of Winners Wallet Address, Payout Type, Payout Chain, Jackpot Amount, Raffle Type, Raffle Amount, and eventually a Raffle Chain
 - Centralized Raffle Blockchain with Decentralized Raffle Smart Contracts(Programming Knowledge NOT! Needed), Payment and payout supported by Crypto
