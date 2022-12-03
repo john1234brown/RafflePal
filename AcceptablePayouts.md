@@ -1,4 +1,4 @@
-Acceptable Cryptocurrency Payouts Are!
+#Acceptable Cryptocurrency Payouts Are!
 APE
 BTC
 BCH
@@ -11,7 +11,7 @@ SHIB
 USDT
 USDC
 
-Acceptable Payout Cryptocurrency Chains Are
+#Acceptable Payout Cryptocurrency Chains Are
 Arbitrum
 Avalanche
 Binance
