@@ -1,5 +1,11 @@
+# Update Log 12/6/2022 MM/DD/YYYY Format
+- Started Work on Payment verification webhooks!
+- @Vampeyer is working on the browser extensions next!
+- Got Few Layouts created to do it to handle the converting process and payouts!
+- Will be working on the Raffle Draw system next few days
+
+
 # Update Log 12/3/2022 MM/DD/YYYY Format
-- Payement Verification system has been completed!
 - Converted to using BetterSqlite3 from using Sqlite3
 - Converted Whole IP Flag for flood request to using Better-Sqlite3
 - Converted Public API to use new JSON Layout! will have a file going more indepth on this
