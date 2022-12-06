@@ -16,6 +16,7 @@ Also we include a few free raffals you can enter to win daily NFT's we are mostl
 
 
 # End Project Goals
+- Public webbrowser extension for entry's and creating own raffle chains
 - All though all this is working it still needs a few security functions put in place before public release of entries is allowed!
 - For now everything is being tested and tried over and over again to ensure every user is fully Secure and to allow a Public Decentralized Blockchain of Winners Wallet Address, Payout Type, Payout Chain, Jackpot Amount, Raffle Type, Raffle Amount, and eventually a Raffle Chain
 - Centralized Raffle Blockchain with Decentralized Raffle Smart Contracts(Programming Knowledge NOT! Needed), Payment and payout supported by Crypto
