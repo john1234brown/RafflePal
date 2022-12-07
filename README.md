@@ -1,11 +1,12 @@
 # Crypto-Raffle
 - This layout will be better later on i'll have a version history log and such tutorials along with all that good stuff but for now focused on the Backened Stuff mainly.
-- We would like to redesign the wheel as you would say everyone loves raffles but nowadays you have to physically be there and dont let get me started on how you cant buy raffle ticket with crypto so we introduce to you the very first WorldWide International Crypto Raffle which is as easy as joining the discord server and saying hey to enter the raffle via our Discord Bot which he will ask you few questions each time you want to enter or purchase a raffle ticket.
+- We would like to redesign the wheel as you would say everyone loves raffles but nowadays you have to physically be there and dont let get me started on how you cant buy raffle ticket with crypto so we introduce to you the very first Worldwide International Crypto Raffle which is as easy as joining the discord server and enter the raffle via our Discord Bot which he will ask you few questions if you want to make a custom order on amount of tickets. Or you use his command line interface to choose the rafflechain you want to enter on predefined amount of tickets which is 1, 5, 10!
+- Or with our Browser Extension which allows you to enter in a very secure manner or create your own raffle chain and allow us to sell tickets for you and handling the payouts!
 
-- Or with our phone app although we mostly expect the entries will be through website and discord bot.
+- Or with a phone app although we mostly expect the entries will be through website and discord bot.
 - So phone app and our software is not really in to fast of development!
 
-- Or with our Software on Windows, or using our command line interface in Java for Linux or Mac!
+- Or with a Software on Windows, or using our command line interface in Java for Linux or Mac!
 
 - Or you can enter the raffle just by visiting our website right here > https://www.templatewebsiteblahblahblah.com,
 
