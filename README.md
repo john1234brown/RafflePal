@@ -1,4 +1,4 @@
-# © ®RafflePal LLC
+# ®RafflePal©
 - This layout will be better later on i'll have a version history log and such tutorials along with all that good stuff but for now focused on the Backened Stuff mainly.
 - We would like to redesign the wheel as you would say everyone loves raffles but nowadays you have to physically be there and dont let get me started on how you cant buy raffle ticket with crypto so we introduce to you the very first Worldwide International Crypto Raffle which is as easy as joining the discord server and enter the raffle via our Discord Bot which he will ask you few questions if you want to make a custom order on amount of tickets. Or you use his command line interface to choose the rafflechain you want to enter on predefined amount of tickets which is 1, 5, 10!
 - Or with our Browser Extension which allows you to enter in a very secure manner or create your own raffle chain and allow us to sell tickets for you and handling the payouts!
