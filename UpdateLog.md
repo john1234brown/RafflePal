@@ -1,3 +1,16 @@
+# Update Log 12/22/2022 MM/DD/YYYY Format
+- Sneak Peak of the website!
+- ![image](https://user-images.githubusercontent.com/8825800/209254522-a4c40abb-30ba-441f-8fd4-c14d50b747fc.png)
+- Sneak Peak of the chrome Extension
+- ![image](https://user-images.githubusercontent.com/8825800/209254650-5a05d65e-c5a6-432e-9efc-2c5d08a1258e.png)
+- Sneak Peak of the Minecraft Bedrock Addon
+- ![image](https://user-images.githubusercontent.com/8825800/209255337-fa3ced56-12d3-4592-bb47-41663852a836.png)
+- Sneak Peak of the Email Activation Codes Verification System!
+- ![image](https://user-images.githubusercontent.com/8825800/209255068-2f0f32c3-778e-4696-82cc-9d0bd18cbc64.png)
+- Working on Verifcation Systems to cut down on potential bot spamming! somewhat.. lol!
+- Cut back working on raffle draw system till i finish making all the data publicly available through any by converting few things to be put into json files to be read anywhere!
+- Have a way to communicate with server via minecraft, chrome extension, and website!
+
 # Update Log 12/6/2022 MM/DD/YYYY Format
 - Started Work on Payment verification webhooks!
 - @Vampeyer is working on the browser extensions next!
