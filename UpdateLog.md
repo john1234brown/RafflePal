@@ -3,7 +3,7 @@
 - ![image](https://user-images.githubusercontent.com/8825800/209254522-a4c40abb-30ba-441f-8fd4-c14d50b747fc.png)
 - Sneak Peak of the chrome Extension
 - ![image](https://user-images.githubusercontent.com/8825800/209254650-5a05d65e-c5a6-432e-9efc-2c5d08a1258e.png)
-- Sneak Peak of the Minecraft Bedrock Addon
+- Sneak Peak of the Minecraft Bedrock Addon (Deprecated) due to issues getting bedrock dedicated server to run addon to be able to do http request!
 - ![image](https://user-images.githubusercontent.com/8825800/209255337-fa3ced56-12d3-4592-bb47-41663852a836.png)
 - Sneak Peak of the Email Activation Codes Verification System!
 - ![image](https://user-images.githubusercontent.com/8825800/209255068-2f0f32c3-778e-4696-82cc-9d0bd18cbc64.png)
