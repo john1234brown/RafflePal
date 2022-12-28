@@ -1,9 +1,18 @@
+# Update Log 12/27/2022 MM/DD/YYYY Format
+- Link to Mobile Website
+- https://amobileextension.johnsfriends.repl.co/
+- Minecraft Bedrock Addon List and select raffle chain from drop down fully functionable and no bugs! Will be adding in the submit for custom amounts already lists checkout url if a predefined checkout aka Ticket amounts 1, 5, and 10 but any other amounts are considered custom and that will be finished later on!
+- ![image](https://user-images.githubusercontent.com/8825800/209752965-9c3bd204-426b-4877-9f9b-7f218e46aeb4.png)
+- ![image](https://user-images.githubusercontent.com/8825800/209753001-7f4e686e-f036-4a12-80ac-0c5b6a9a39dc.png)
+- ![image](https://user-images.githubusercontent.com/8825800/209753024-a19dc420-bc98-409b-b16a-607204413f16.png)
+
+
 # Update Log 12/22/2022 MM/DD/YYYY Format
 - Sneak Peak of the website!
 - ![image](https://user-images.githubusercontent.com/8825800/209254522-a4c40abb-30ba-441f-8fd4-c14d50b747fc.png)
 - Sneak Peak of the chrome Extension
 - ![image](https://user-images.githubusercontent.com/8825800/209254650-5a05d65e-c5a6-432e-9efc-2c5d08a1258e.png)
-- Sneak Peak of the Minecraft Bedrock Addon (Deprecated) due to issues getting bedrock dedicated server to run addon to be able to do http request!
+- Sneak Peak of the Minecraft Bedrock Addon
 - ![image](https://user-images.githubusercontent.com/8825800/209255337-fa3ced56-12d3-4592-bb47-41663852a836.png)
 - Sneak Peak of the Email Activation Codes Verification System!
 - ![image](https://user-images.githubusercontent.com/8825800/209255068-2f0f32c3-778e-4696-82cc-9d0bd18cbc64.png)
