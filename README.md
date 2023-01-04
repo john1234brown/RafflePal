@@ -17,7 +17,7 @@
 # FAQ Section
 - 
 - 
-
+- How do i see Previous Records Or Draw Historys Or Winnings That are more then 90 Days OLD Please Check the 
 
 # Extra Information Section
 - This layout will be better later on i'll have a version history log and such tutorials along with all that good stuff but for now focused on the Backened Stuff mainly.
