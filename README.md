@@ -1,4 +1,25 @@
 # ©®RafflePal
+# About US Section
+- Currently We Are Offering the service of creating a public Raffle Chain which contains 1$, 2$, 4$, 8$ Raffles not Multi Winner Raffles, that can be entered from a website, chrome extension, minecraft bedrock addon but you have to manually type the urls displayed in the mc chat.
+- These Raffles are a Jackpot Raffles and we handle processing the payments and verifying payements also all payements are only accepted in Cryptocurrency.
+- This Raffle Chain you create you can tax upto 2% fee on the jackpots, Also we charge a 3% Fee for all Jackpots consider it a Developer or Server Fee. Also The Jackpot covers the cost for Transaction fees, Conversion Fees etc.. so to clarify Jackpot Winners actually Only Earn about 90% of the Jackpot because of Conversion Fees and Transaction Fees.
+- 5% is for Conversion and Transaction Fees.
+- 2% for Raffle Chain Creator Fee.
+- 3% for Developers / Server Fees.
+- Each Raffle Has a Max entry to set a Max Potential Jackpot of $2,000,000.00 so example formula to find out max entrys for that raffle do (2,000,000/RaffleType)
+- For Example Raffle Type $1 would have maximum entries of 2,000,000
+- While 2$ would have maximum entries of 1,000,000 etc...
+-
+-
+- Anyone can create a RaffleChain! But please allow and understand the rate limit of generating Raffle Chains Currently about 15 Chains can be generate per minute through our api services!
+
+
+#FAQ Section
+- 
+- 
+
+
+#Extra Information Section
 - This layout will be better later on i'll have a version history log and such tutorials along with all that good stuff but for now focused on the Backened Stuff mainly.
 - We would like to redesign the wheel as you would say everyone loves raffles but nowadays you have to physically be there and dont let get me started on how you cant buy raffle ticket with crypto so we introduce to you the very first Worldwide International Crypto Raffle which is as easy as joining the discord server and enter the raffle via our Discord Bot which he will ask you few questions if you want to make a custom order on amount of tickets. Or you use his command line interface to choose the rafflechain you want to enter on predefined amount of tickets which is 1, 5, 10!
 - Or with our Browser Extension which allows you to enter in a very secure manner or create your own raffle chain and allow us to sell tickets for you and handling the payouts!
@@ -17,7 +38,7 @@ Also we include a few free raffals you can enter to win daily NFT's we are mostl
 
 
 # End Project Goals
-- Public webbrowser extension for entry's and creating own raffle chains
+- Public web browser extension for entry's and creating own raffle chains
 - All though all this is working it still needs a few security functions put in place before public release of entries is allowed!
 - For now everything is being tested and tried over and over again to ensure every user is fully Secure and to allow a Public Decentralized Blockchain of Winners Wallet Address, Payout Type, Payout Chain, Jackpot Amount, Raffle Type, Raffle Amount, and eventually a Raffle Chain
 - Centralized Raffle Blockchain with Decentralized Raffle Smart Contracts(Programming Knowledge NOT! Needed), Payment and payout supported by Crypto
