@@ -8,5 +8,5 @@
 - LTC
 - MATIC
 - SHIB
-- USDT
 - USDC
+- USDT
