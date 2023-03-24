@@ -1,4 +1,4 @@
-# 1/1/23 we have officially quite working on this project if anyone would like to finish up where this was left off more then welcome all though i probably won't be giving up the source code of the Backend node js applications for the servers and such as it did take alot of time but i will leave this template html website and example of fetch responses in javascript here for anyone to use!
+# 1/1/23 we have officially quit working on this project if anyone would like to finish up where this was left off more then welcome all though i probably won't be giving up the source code of the Backend node js applications for the servers and such as it did take alot of time but i will leave this template html website and example of fetch responses in javascript here for anyone to use!
 
 # ©®RafflePal
 # About US Section
